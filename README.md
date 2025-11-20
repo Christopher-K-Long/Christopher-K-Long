@@ -7,6 +7,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm currently learning German
 
+Many of my repositories are mirrored to my GitLab account: https://gitlab.com/Christopher-K-Long
+
 <!--
 **Christopher-K-Long/Christopher-K-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
