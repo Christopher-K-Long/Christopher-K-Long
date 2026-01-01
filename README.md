@@ -13,5 +13,7 @@ Many of my repositories are mirrored to my GitLab account: https://gitlab.com/Ch
 **Christopher-K-Long/Christopher-K-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+*Reminder to license your public GitHub repositories: https://choosealicense.com*
+
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
