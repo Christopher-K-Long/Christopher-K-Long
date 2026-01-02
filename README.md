@@ -9,6 +9,8 @@
 
 Many of my repositories are mirrored to my GitLab account: https://gitlab.com/Christopher-K-Long
 
+Here is my public GPG key: [Christopher-K-Long.gpg](Christopher-K-Long.gpg)
+
 <!--
 **Christopher-K-Long/Christopher-K-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
